@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "koa": "^2.14.1",
+    "koa-ejs": "^4.3.0",
+    "koa-router": "^5.4.0",
+    "koa-static": "^2.1.0",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
